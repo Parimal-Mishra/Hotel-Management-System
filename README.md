@@ -1,11 +1,7 @@
-# Hotel-Management-System
-Sure! Here's a **short and clear project description** for your **Hotel Management System**:
 
----
+###Hotel Management System
 
-### 🏨 **Hotel Management System (Hotel TAJ)**
-
-This **Hotel Management System** is a command-line Python project that uses **MySQL** for data storage and provides a complete backend solution for managing hotel operations at **Hotel TAJ**. The system allows staff to efficiently handle customer records, room bookings, billing, and payments with a user-friendly interface.
+This **Hotel Management System** is a command-line Python project that uses **MySQL** for data storage and provides a complete backend solution for managing operations of a hotel. The system allows staff to efficiently handle customer records, room bookings, billing, and payments with a user-friendly interface.
 
 ### ✅ **Key Features:**
 
@@ -21,7 +17,3 @@ This **Hotel Management System** is a command-line Python project that uses **My
 * **Python 3**
 * **MySQL**
 * **mysql-connector-python** library
-
----
-
-Let me know if you'd like a more formal version for documentation or a project report!
