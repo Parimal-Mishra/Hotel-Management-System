@@ -1,4 +1,4 @@
-**Hotel Management System**
+#**Hotel Management System**
 
 This **Hotel Management System** is a command-line Python project that uses **MySQL** for data storage and provides a complete backend solution for managing operations of a hotel. The system allows staff to efficiently handle customer records, room bookings, billing, and payments with a user-friendly interface.
 
